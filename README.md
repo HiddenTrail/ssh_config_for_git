@@ -9,6 +9,8 @@ Basic understanding of creating SSH keys and using public keys on Git services a
 
 - [GitLab](https://docs.gitlab.com/ee/user/ssh.html)
 
+- [Azure](https://learn.microsoft.com/en-us/azure/virtual-machines/ssh-keys-portal)
+
 ## configuration file in .ssh
 
 Several different Git accounts are configured in `~/.ssh/config`:
